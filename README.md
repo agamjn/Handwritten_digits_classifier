@@ -8,5 +8,6 @@ MNIST dataset for trainig purpose can be imported from keras itself or you may u
         
   Model weights are saved to HDF5 format. This is a grid format that is ideal for storing multi-dimensional arrays of numbers and for this you may need to install h5py first in your working environment.
   
- If you are using Ubuntu you may use the following command to install h5py:   $ conda install h5py
+ If you are using Ubuntu you may use the following command to install h5py:  
+                     $ conda install h5py
  
