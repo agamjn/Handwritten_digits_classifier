@@ -1,4 +1,4 @@
-# Handwrritten_digits_classifier
+# Handwritten_digits_classifier
 
 To use this code you should have keras installed in your machine.
 
