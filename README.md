@@ -11,4 +11,4 @@ MNIST dataset for trainig purpose can be imported from keras itself or you may u
  If you are using Ubuntu you may use the following command to install h5py:  
                      $ conda install h5py
  
-#
+
