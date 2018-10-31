@@ -12,4 +12,4 @@ MNIST dataset for trainig purpose can be imported from keras itself or you may u
                      $ conda install h5py
  
 
-#
+
